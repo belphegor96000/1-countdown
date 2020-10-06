@@ -4,7 +4,7 @@
 }
 
 body {          
-    background-image: url(img/xmass1.jpg); color: rgb(255, 255, 255);
+    background-image: url('https://images.pexels.com/photos/314860/pexels-photo-314860.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940'); color: rgb(255, 255, 255);
     background-size: cover;
     background-position: center center;
     display: flex;
